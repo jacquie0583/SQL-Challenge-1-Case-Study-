@@ -60,14 +60,14 @@ Customer B enjoys all items in the menu. He/she is a true foodie.
 
 
 <p align="center">
-  <img width="300" height="300" src="https://github.com/jacquie0583/SQL-Challenge---Case-Study-/blob/main/Picture6.png">
+  <img width="400" height="400" src="https://github.com/jacquie0583/SQL-Challenge---Case-Study-/blob/main/Picture6.png">
 </p>
 
 6.  Which item was purchased first by the customer after they became a member?
 In this CTE, we filter order_date to be on or after their join_date and then rank the product_id by the order_date.  After Customer A became a member, his/her first order is curry, whereas it’s sushi for Customer B.
 
 <p align="center">
-  <img width="200" height="200" src="https">
+  <img width="400" height="300" src="https://github.com/jacquie0583/SQL-Challenge---Case-Study-/blob/main/Picture7.png">
 </p>
 
 
@@ -80,7 +80,7 @@ Answer:
 
 
 <p align="center">
-  <img width="200" height="200" src="https://github.com/jacquie0583">
+  <img width="400" height="300" src="https://github.com/jacquie0583/SQL-Challenge---Case-Study-/blob/main/Picture8.png">
 </p>
 
 8.  What is the total items and amount spent for each member before they became a member?
@@ -91,7 +91,7 @@ First, filter order_date before their join_date. Then, COUNT unique product_id a
 
 
 <p align="center">
-  <img width="200" height="200" src="https://github.com/">
+  <img width="400" height="300" src="https://github.com/jacquie0583/SQL-Challenge---Case-Study-/blob/main/Picture9.png">
 </p>
 
 
@@ -110,7 +110,7 @@ Answer:
 
 
 <p align="center">
-  <img width="200" height="200" src="https://github.com/jacquie0583/">
+  <img width="400" height="300" src="https://github.com/jacquie0583/SQL-Challenge---Case-Study-/blob/main/Picture10.png">
 </p>
 
 
@@ -139,5 +139,5 @@ Answer:
 
 
 <p align="center">
-  <img width="200" height="200" src="https://github.com/jacquie0583/">
+  <img width="400" height="400" src="https://github.com/jacquie0583/SQL-Challenge---Case-Study-/blob/main/Picture11.png">
 </p>
